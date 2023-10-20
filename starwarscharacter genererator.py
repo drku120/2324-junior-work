@@ -1,0 +1,16 @@
+character_name = input("enter the name of your character: ")
+species = input("what species is your character's ? (human wookiee, twi ' lek): ")
+occupation = input("what is your character's occupation (e.g. , JEDI, SITH, smuggler") 
+weapon = input("what is your character's main weapon?: ")
+home_planet = input("which planet does your character come from?")
+sidekick = input("who is your character's sidekick or companion? (e.g, r2-d2  chewbacca): ")
+
+
+print("\n---------STAR wars CHARACTER BIO ---------")
+print(f"name:){character_name}")
+print(f"species: {species} ") 
+print(f"occupation:  {occupation}")
+print(f"weapon of choice {weapon}")
+print(f"home planet: {home_planet} ")
+print(f"sidekick: {sidekick}")
+print("----------------------------------------\n")

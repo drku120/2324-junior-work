@@ -1,0 +1,4 @@
+import requests
+URL = "https://weather.com/weather/tenday/l/Canfield+OH?canonicalCityId=e0d08de811849cccd7ba7c20272549ac89a756464f148440a624af54066d9054"
+page = request.get(URL) 
+(print api requests)=URL
